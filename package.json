@@ -1,6 +1,6 @@
 {
   "name": "objectid-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny utility for ObjectID types",
   "main": "index.d.ts",
   "scripts": {
